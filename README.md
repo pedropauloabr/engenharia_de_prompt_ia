@@ -1,2 +1,2 @@
 # engenharia_de_prompt_ia
-Disciplina da faculdade
+Disciplina de engenharia de prompt e aplicações em ia da professora Kadidja 
